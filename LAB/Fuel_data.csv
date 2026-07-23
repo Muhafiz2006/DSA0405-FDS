@@ -1,0 +1,7 @@
+CarID,Model,Year,Engine,FuelType,Transmission,Weight,FuelEfficiency,Make
+1,CX5,2022,2.5,Petrol,Auto,1650,28,Mazda
+2,Mazda3,2021,2.0,Petrol,Manual,1450,32,Mazda
+3,Mazda6,2020,2.5,Diesel,Auto,1550,30,Mazda
+4,A4,2022,2.0,Petrol,Auto,1600,24,Audi
+5,A6,2021,2.0,Diesel,Auto,1700,26,Audi
+6,Q3,2020,1.8,Petrol,Manual,1580,25,Audi
