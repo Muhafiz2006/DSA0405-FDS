@@ -1,7 +1,71 @@
-Month_sales,Price
-September 2023,120
-October 2023,135
-November 2023,150
-November 2023,170
-November 2023,160
-December 2023,190
+OrderID,Month_sales,Category,Quantity,Price,Product_Name
+1,January 2023,Furniture,2,241.36,Widget G
+2,January 2023,Clothing,5,346.28,Widget A
+3,January 2023,Electronics,7,484.24,Widget H
+4,January 2023,Clothing,9,242.73,Widget C
+5,January 2023,Groceries,2,78.01,Widget G
+6,January 2023,Furniture,3,339.86,Widget D
+7,February 2023,Toys,2,354.63,Widget D
+8,February 2023,Toys,3,418.65,Widget A
+9,February 2023,Clothing,8,154.84,Widget G
+10,February 2023,Groceries,7,82.78,Widget B
+11,March 2023,Electronics,1,396.66,Widget G
+12,March 2023,Furniture,5,393.65,Widget F
+13,March 2023,Furniture,5,290.84,Widget E
+14,March 2023,Electronics,3,339.18,Widget B
+15,March 2023,Electronics,5,289.14,Widget F
+16,March 2023,Electronics,6,283.49,Widget G
+17,March 2023,Furniture,6,162.42,Widget A
+18,April 2023,Electronics,4,119.07,Widget C
+19,April 2023,Groceries,9,128.46,Widget D
+20,April 2023,Toys,1,151.47,Widget G
+21,April 2023,Toys,4,285.16,Widget C
+22,April 2023,Furniture,8,337.19,Widget E
+23,April 2023,Clothing,4,95.98,Widget D
+24,May 2023,Groceries,1,365.34,Widget A
+25,May 2023,Electronics,5,93.22,Widget F
+26,May 2023,Toys,9,352.72,Widget E
+27,May 2023,Electronics,5,199.8,Widget D
+28,May 2023,Groceries,7,190.48,Widget C
+29,May 2023,Furniture,1,72.23,Widget H
+30,May 2023,Groceries,4,354.36,Widget H
+31,June 2023,Clothing,7,392.69,Widget C
+32,June 2023,Toys,7,232.94,Widget C
+33,June 2023,Furniture,1,452.76,Widget C
+34,June 2023,Electronics,5,113.15,Widget B
+35,June 2023,Furniture,8,100.73,Widget C
+36,June 2023,Clothing,8,382.88,Widget D
+37,June 2023,Clothing,6,319.24,Widget F
+38,July 2023,Electronics,1,55.96,Widget E
+39,July 2023,Furniture,4,35.18,Widget G
+40,July 2023,Electronics,2,85.09,Widget D
+41,July 2023,Groceries,1,300.01,Widget F
+42,July 2023,Furniture,3,296.81,Widget B
+43,August 2023,Clothing,6,26.06,Widget C
+44,August 2023,Clothing,9,248.92,Widget B
+45,August 2023,Clothing,1,251.03,Widget G
+46,August 2023,Electronics,5,469.85,Widget F
+47,August 2023,Electronics,5,144.48,Widget E
+48,August 2023,Clothing,3,267.53,Widget H
+49,August 2023,Toys,3,415.75,Widget D
+50,September 2023,Electronics,5,283.71,Widget H
+51,September 2023,Electronics,1,341.04,Widget C
+52,September 2023,Electronics,3,367.59,Widget C
+53,September 2023,Furniture,7,67.25,Widget H
+54,October 2023,Toys,3,33.15,Widget H
+55,October 2023,Electronics,5,417.45,Widget E
+56,October 2023,Groceries,8,168.81,Widget D
+57,October 2023,Groceries,6,264.8,Widget H
+58,October 2023,Groceries,3,468.98,Widget H
+59,October 2023,Electronics,5,226.02,Widget B
+60,November 2023,Toys,2,378.07,Widget H
+61,November 2023,Toys,9,448.32,Widget G
+62,November 2023,Electronics,5,389.43,Widget E
+63,November 2023,Groceries,6,196.22,Widget C
+64,December 2023,Electronics,7,142.29,Widget F
+65,December 2023,Electronics,9,74.54,Widget H
+66,December 2023,Groceries,8,89.34,Widget A
+67,December 2023,Furniture,4,439.16,Widget B
+68,December 2023,Clothing,2,165.51,Widget A
+69,December 2023,Toys,3,257.86,Widget G
+70,December 2023,Toys,2,21.76,Widget D
