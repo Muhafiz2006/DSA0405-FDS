@@ -1,0 +1,8 @@
+Data science is an interdisciplinary field that uses scientific methods, processes,
+algorithms and systems to extract knowledge and insights from structured and
+unstructured data. Data science is related to data mining, machine learning and
+big data. Data science uses techniques and theories drawn from many fields within
+the context of mathematics, statistics, computer science and information science.
+A data scientist collects data, cleans data, analyzes data and builds models to
+help organizations make better decisions. Data is the foundation of every good
+decision, and good data leads to good insights.
